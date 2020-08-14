@@ -1,0 +1,32 @@
+_repo: The-Fire-Within_62820
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wentworth, Patricia
+    aliases:
+    - Elles, Dora Amy
+    - Turnbull, Dora Amy
+    - Dillon, Mrs. G. F.
+    birthdate: 1878
+    deathdate: 1961
+    gutenberg_agent_id: '41726'
+    url: http://www.gutenberg.org/2009/agents/41726
+    wikipedia: https://en.wikipedia.org/wiki/Patricia_Wentworth
+description: ''
+gutenberg_issued: '2020-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62820'
+  lccn: '13016999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: The Fire Within
+url: http://www.gutenberg.org/ebooks/62820
