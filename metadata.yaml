@@ -1,5 +1,8 @@
 _repo: The-Fire-Within_62820
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62820-h/images/cover.jpg
 creator:
   author:
     agent_name: Wentworth, Patricia
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41726
     wikipedia: https://en.wikipedia.org/wiki/Patricia_Wentworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62820#The-Fire-Within
 gutenberg_issued: '2020-08-02'
 gutenberg_type: Text
 identifiers:
